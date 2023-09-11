@@ -4,12 +4,11 @@ Including Bitcoin Core, Dojo, Whirlpool, Fulcrum and Mempool Visual Explorer.
 
 Written, published & maintained by Kyc3.
 
--   Part 1. Installing Bitcoin Core.
--   Part 2. Installing Fulcrum Indexer.
--   Part 3. Installing Mempool Explorer.
--   Part 4. Installing Samourai Dojo.
--   Part 5. Firewall Configuration.
--   Part 6. Installing Package Updates.
+-   Part 1. [Installing Bitcoin Core](https://github.com/kycfree1/x86-Bitcoin-Node-Guide/blob/main/1.%20Installing%20Bitcoin%20Core.md).
+-   Part 2. [Installing Fulcrum Indexer](https://github.com/kycfree1/x86-Bitcoin-Node-Guide/blob/main/2.%20Installing%20Fulcrum%20Indexer.md).
+-   Part 3. [Installing Mempool Explorer](https://github.com/kycfree1/x86-Bitcoin-Node-Guide/blob/main/3.%20Installing%20Mempool%20Explorer.md).
+-   Part 4. [Installing Samourai Dojo](https://github.com/kycfree1/x86-Bitcoin-Node-Guide/blob/main/4.%20Installing%20Samourai%20Dojo.md).
+-   Part 5. [Firewall Configuration](https://github.com/kycfree1/x86-Bitcoin-Node-Guide/blob/main/5.%20Firewall%20Configuration.md).
 
 ## [Donate!](https://btcpay.kyc3.life/apps/2Skb4H3KhT2AcwWJFSBMGUrgwvGF/pos)
  If this guide was useful, please consider [**making a contribution**](https://btcpay.kyc3.life/apps/2Skb4H3KhT2AcwWJFSBMGUrgwvGF/pos). Bitcoin, Lightning and Monero donations are accepted via a decentralised BTCPay Server. 
