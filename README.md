@@ -2,7 +2,7 @@ A multiple-part guide, for configuring a privacy focused Bitcoin full-node on an
 
 Including Bitcoin Core, Dojo, Whirlpool, Fulcrum and Mempool Visual Explorer.
 
-Written, published & maintained by Kyc3.
+Written, published & maintained by [Kyc3](https://twitter.com/KYCFREE).
 
 -   Part 1. [Installing Bitcoin Core](https://github.com/kycfree1/x86-Bitcoin-Node-Guide/blob/main/1.%20Installing%20Bitcoin%20Core.md).
 -   Part 2. [Installing Fulcrum Indexer](https://github.com/kycfree1/x86-Bitcoin-Node-Guide/blob/main/2.%20Installing%20Fulcrum%20Indexer.md).
