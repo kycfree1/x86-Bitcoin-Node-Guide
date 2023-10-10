@@ -10,8 +10,8 @@ Written, published & maintained by [Kyc3](https://twitter.com/KYCFREE).
 -   Part 4. [Installing Samourai Dojo](https://github.com/kycfree1/x86-Bitcoin-Node-Guide/blob/main/4.%20Installing%20Samourai%20Dojo.md).
 -   Part 5. [Firewall Configuration](https://github.com/kycfree1/x86-Bitcoin-Node-Guide/blob/main/5.%20Firewall%20Configuration.md).
 
-## [Donate!](https://btcpay.kyc3.life/apps/2Skb4H3KhT2AcwWJFSBMGUrgwvGF/pos)
- If this guide was useful, please consider [**making a contribution**](https://btcpay.kyc3.life/apps/2Skb4H3KhT2AcwWJFSBMGUrgwvGF/pos). Bitcoin, Lightning and Monero donations are accepted via a decentralised BTCPay Server. 
+## [Donate!](https://xxx.kyc3.life/apps/3ATuN1LZXxUoif58iZXuTCfAhmGF/pos)
+ If this guide was useful, please consider [**making a contribution**](https://xxx.kyc3.life/apps/3ATuN1LZXxUoif58iZXuTCfAhmGF/pos). Bitcoin, Lightning and Monero donations are accepted via a decentralised BTCPay Server. 
 
 Everything is appreciated and helps with publishing more guides.
 
